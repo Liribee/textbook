@@ -128,7 +128,7 @@ so install WSL2 if you can.
 [wsl-manual]: https://docs.microsoft.com/en-us/windows/wsl/install-manual
 [rh-virt]: https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/virtualization_administration_guide/sect-virtualization-troubleshooting-enabling_intel_vt_and_amd_v_virtualization_hardware_extensions_in_bios
 
-**Ubuntu setup.** These rest of these instructions assume that you installed
+**Ubuntu setup.** The rest of these instructions assume that you installed
 Ubuntu (22.04) as the Linux distribution. That is the default distribution in
 WSL. In principle other distributions should work, but might require different
 commands from this point forward.
